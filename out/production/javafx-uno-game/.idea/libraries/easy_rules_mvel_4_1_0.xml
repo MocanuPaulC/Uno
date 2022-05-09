@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="easy-rules-mvel-4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/easy-rules-mvel-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
